@@ -34,3 +34,12 @@ xhd.onload = function(){
 
 xhd.open('GET',url);
 xhd.send();
+
+
+let btn = document.querySelector(".btn");
+
+btn.addEventListener("click", function(){
+    alert("salom")
+})
+
+
