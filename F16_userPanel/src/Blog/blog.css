@@ -1,0 +1,148 @@
+*{
+    margin: 0 auto;
+    text-decoration: none;
+    list-style: none;
+}
+nav{
+    display: flex;
+    align-items: center;
+    margin: 30px;
+    background-color: lightblue;
+    color: yellow;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    position: relative;
+    right: 400px;
+}
+
+nav ul li a{
+    color: blue;
+}
+
+nav ul li a:hover{
+    color: blueviolet;
+}
+
+.guide{
+    width: 1230px;
+    height: 100px;
+    padding-bottom: 120px;
+    padding-top: 120px;
+}
+
+.profi{
+    font-size: 64px;
+}
+
+.make-create{
+    font-size: 16px;
+    position: relative;
+    left: 450px;
+}
+
+.create-data{
+    color: #00000099;
+    font-size: 14px;
+    position: relative;
+    left: 520px;
+    bottom: 17px;
+}
+
+.lorem1{
+    font-size: 16px;
+    color: #00000099;
+    width: 800px;
+    position: relative;
+    top: 48px;
+}
+
+.chef-img{
+    margin-bottom: 120px;
+    margin-top: 80px;
+    padding-left: 350px;
+}
+
+.foot{
+    padding-left: 300px;
+}
+
+.start{
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 24px;
+}
+
+.lorem2{
+    font-size: 16px;
+    color: #00000099;
+    width: 700px;
+    margin-bottom: 112px;
+    position: relative;
+    right: 520px;
+}
+
+.like-job{
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 24px;
+}
+
+.lorem3{
+    font-size: 16px;
+    color: #00000099;
+    width: 700px;
+    margin-bottom: 112px;
+    position: relative;
+    right: 520px;
+}
+
+.cook-home{
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 24px;
+}
+
+.lorem4{
+    font-size: 16px;
+    color: #00000099;
+    width: 700px;
+    margin-bottom: 112px;
+    position: relative;
+    right: 520px;
+    top: 20px;
+}
+
+.questions{
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 24px;
+}
+
+.lorem5{
+    font-size: 16px;
+    color: #00000099;
+    width: 700px;
+    margin-bottom: 112px;
+    position: relative;
+    right: 520px;
+    top: 10px;
+}
+
+.biggest-misconception{
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 24px;
+}
+
+.lorem6{
+    font-size: 16px;
+    color: #00000099;
+    width: 700px;
+    margin-bottom: 112px;
+    position: relative;
+    right: 520px;
+    top: 10px;
+}
