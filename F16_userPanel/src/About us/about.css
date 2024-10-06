@@ -1,3 +1,5 @@
+
+
 *{
     margin: 0 auto;
     text-decoration: none;
@@ -6,11 +8,22 @@
 nav{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    margin: 30px;
+    padding: 20px;
+    background-color: lightblue;
+    color: rgb(255, 225, 0);
 }
 nav ul{
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 10px;
+    gap: 60px;
+    
+}
+
+nav ul li a{
+    color: blue;
+}
+
+nav ul li a:hover{
+    color: blueviolet;
 }

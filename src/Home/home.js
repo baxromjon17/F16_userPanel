@@ -27,19 +27,9 @@ xhd.onload = function(){
         
     }catch(e){
         console.log("Error" .e);
-        
     }
     
 }
 
 xhd.open('GET',url);
 xhd.send();
-
-
-let btn = document.querySelector(".btn");
-
-btn.addEventListener("click", function(){
-    alert("salom")
-})
-
-

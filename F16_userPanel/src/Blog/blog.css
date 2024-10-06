@@ -7,15 +7,15 @@ nav{
     display: flex;
     align-items: center;
     margin: 30px;
+    padding: 20px;
     background-color: lightblue;
-    color: yellow;
+    color: rgb(255, 225, 0);
 }
 nav ul{
     display: flex;
     align-items: center;
     gap: 60px;
-    position: relative;
-    right: 400px;
+    
 }
 
 nav ul li a{
@@ -54,23 +54,21 @@ nav ul li a:hover{
 .lorem1{
     font-size: 16px;
     color: #00000099;
-    width: 800px;
     position: relative;
     top: 48px;
+    text-align: center;
 }
 
 .chef-img{
     margin-bottom: 120px;
     margin-top: 80px;
-    padding-left: 350px;
 }
-
 .foot{
-    padding-left: 300px;
+    text-align: center;
 }
 
 .start{
-    font-size: 24px;
+    font-size: 44px;
     color: #000000;
     margin-bottom: 24px;
 }
@@ -80,12 +78,10 @@ nav ul li a:hover{
     color: #00000099;
     width: 700px;
     margin-bottom: 112px;
-    position: relative;
-    right: 520px;
 }
 
 .like-job{
-    font-size: 24px;
+    font-size: 44px;
     color: #000000;
     margin-bottom: 24px;
 }
@@ -95,12 +91,10 @@ nav ul li a:hover{
     color: #00000099;
     width: 700px;
     margin-bottom: 112px;
-    position: relative;
-    right: 520px;
 }
 
 .cook-home{
-    font-size: 24px;
+    font-size: 44px;
     color: #000000;
     margin-bottom: 24px;
 }
@@ -110,13 +104,11 @@ nav ul li a:hover{
     color: #00000099;
     width: 700px;
     margin-bottom: 112px;
-    position: relative;
-    right: 520px;
     top: 20px;
 }
 
 .questions{
-    font-size: 24px;
+    font-size: 30px;
     color: #000000;
     margin-bottom: 24px;
 }
@@ -126,13 +118,11 @@ nav ul li a:hover{
     color: #00000099;
     width: 700px;
     margin-bottom: 112px;
-    position: relative;
-    right: 520px;
     top: 10px;
 }
 
 .biggest-misconception{
-    font-size: 24px;
+    font-size: 30px;
     color: #000000;
     margin-bottom: 24px;
 }
@@ -142,7 +132,5 @@ nav ul li a:hover{
     color: #00000099;
     width: 700px;
     margin-bottom: 112px;
-    position: relative;
-    right: 520px;
     top: 10px;
 }
