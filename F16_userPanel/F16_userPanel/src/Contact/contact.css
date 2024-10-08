@@ -1,0 +1,84 @@
+
+
+*{
+    margin: 0 auto;
+    text-decoration: none;
+    list-style: none;
+}
+nav{
+    display: flex;
+    align-items: center;
+    margin: 30px;
+    padding: 20px;
+    background-color: lightblue;
+    color: rgb(255, 225, 0);
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    
+}
+
+nav ul li a{
+    color: blue;
+}
+
+nav ul li a:hover{
+    color: blueviolet;
+}
+
+.connect{
+    margin: 30px; 
+    padding: 40px; 
+    height: 350px;
+}
+
+.page-contact{
+    font-size: 16px;
+    color: #00000099;
+    text-transform: uppercase;
+}
+
+.questions{
+    font-size: 60px;
+    color: #000000;
+}
+
+span{
+    color: rgb(255, 225, 0);
+}
+
+.support{
+    font-size: 30px;
+    color: #00000099;
+    margin-top: 20px;
+}
+
+.communication{
+    width: 30%;
+    position: relative;
+    left: 1000px;
+    bottom: 300px;
+}
+
+.foot{
+    background-color: blanchedalmond;
+    margin: 30px;
+    padding: 40px;
+    width: 1535px;
+    position: relative;
+    bottom: 38px;
+}
+
+.info{
+    font-size: 28px;
+    color:  rgb(52, 52, 56);
+    text-align: center;
+}
+
+hr{
+    background-color: orange;
+    height: 3px;
+    border: none;
+}

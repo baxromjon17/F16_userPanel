@@ -1,0 +1,132 @@
+*{
+    margin: 0 auto;
+    text-decoration: none;
+    list-style: none;
+}
+nav{
+    display: flex;
+    align-items: center;
+    margin: 30px;
+    padding: 20px;
+    background-color: lightblue;
+    color: rgb(255, 225, 0);
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    
+}
+
+nav ul li a{
+    color: blue;
+}
+
+nav ul li a:hover{
+    color: blueviolet;
+}
+
+.guide{
+    width: 1230px;
+    height: 100px;
+    padding-bottom: 120px;
+    padding-top: 120px;
+}
+
+.profi{
+    font-size: 64px;
+}
+
+.make-create{
+    font-size: 16px;
+    text-align: center;
+}
+
+span{
+    color: #00000099;
+    font-size: 14px;
+}
+
+.lorem1{
+    font-size: 16px;
+    color: #00000099;
+    position: relative;
+    top: 48px;
+    text-align: center;
+}
+
+.chef-img{
+    margin-bottom: 120px;
+    margin-top: 80px;
+}
+.foot{
+    text-align: center;
+}
+
+.start{
+    font-size: 44px;
+    color: #000000;
+    margin-bottom: 24px;
+}
+
+.lorem2{
+    font-size: 16px;
+    color: #00000099;
+    width: 700px;
+    margin-bottom: 112px;
+}
+
+.like-job{
+    font-size: 44px;
+    color: #000000;
+    margin-bottom: 24px;
+}
+
+.lorem3{
+    font-size: 16px;
+    color: #00000099;
+    width: 700px;
+    margin-bottom: 112px;
+}
+
+.cook-home{
+    font-size: 44px;
+    color: #000000;
+    margin-bottom: 24px;
+}
+
+.lorem4{
+    font-size: 16px;
+    color: #00000099;
+    width: 700px;
+    margin-bottom: 112px;
+    top: 20px;
+}
+
+.questions{
+    font-size: 30px;
+    color: #000000;
+    margin-bottom: 24px;
+}
+
+.lorem5{
+    font-size: 16px;
+    color: #00000099;
+    width: 700px;
+    margin-bottom: 112px;
+    top: 10px;
+}
+
+.biggest-misconception{
+    font-size: 30px;
+    color: #000000;
+    margin-bottom: 24px;
+}
+
+.lorem6{
+    font-size: 16px;
+    color: #00000099;
+    width: 700px;
+    margin-bottom: 112px;
+    top: 10px;
+}
